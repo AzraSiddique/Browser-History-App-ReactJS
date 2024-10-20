@@ -1,0 +1,58 @@
+.list-item {
+  display: flex;
+  font-family: 'Roboto';
+  align-items: center;
+  justify-content: space-between;
+}
+
+.domain-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.domain-sub-container {
+  display: flex;
+  align-items: center;
+}
+
+.domain-logo {
+  width: 25px;
+  height: 25px;
+  margin-right: 20px;
+}
+
+.time-accessed {
+  color: #64748b;
+  font-size: 15px;
+  font-weight: 600;
+  margin-right: 40px;
+}
+
+.title {
+  font-size: 15px;
+  font-family: 'Roboto';
+  font-weight: 500;
+  color: #475569;
+  margin-right: 10px;
+}
+
+.domain-url {
+  color: #64748b;
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.delete {
+  width: 20px;
+  height: 20px;
+  margin-right: 20px;
+  border: none;
+  background-color: transparent;
+  margin-right: 40px;
+}
+
+.domain-container {
+  border: none;
+  background-color: transparent;
+}
